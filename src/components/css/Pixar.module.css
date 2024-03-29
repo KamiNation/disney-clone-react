@@ -1,0 +1,11 @@
+
+#img {
+    height: 104px;
+    width: 184px;
+    object-fit: contain;
+}
+
+
+.card {
+    justify-content: center;
+}

@@ -1,0 +1,28 @@
+
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 518px;
+    width: 333px;
+}
+
+
+
+.container {
+    padding: 2px 16px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    flex-grow: 1;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+#img {
+    height: 333px;
+    width: 333px;
+    object-fit: contain;
+}

@@ -1,0 +1,12 @@
+.section{
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  margin-top: 40px;
+}
+
+
+#info{
+  padding: 60px 0px;
+  background-color: #010E3E;
+}

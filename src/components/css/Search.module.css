@@ -9,7 +9,7 @@
 #button{
     width: 20%;
     padding: 10px;
-    background: #2196F3;
+    background: white;
     color: white;
     font-size: 17px;
     border: 1px solid grey;
@@ -19,4 +19,9 @@
 
 #button:hover{
     background: #0b7dda;
+}
+
+#btncontrol{
+    display: flex;
+    padding-right: 30px;
 }
